@@ -2,7 +2,7 @@
 
 ## Description
 
-The Budget Tracker is a progressive web app that tracks a user's budget.  The website can be installed or operated offline using indexedDB to store local data until a connection can be re-established and the files cached to be loaded if no connection exists.
+The Budget Tracker is a progressive web app that tracks a user's budget.  The website can be installed to a users mobile device or desktop. It can be operated offline using indexedDB to store local data until a connection can be re-established and the files cached to be loaded if no connection exists.
 
 
 ## Table of Contents
